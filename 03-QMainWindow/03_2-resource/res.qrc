@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>小软件/0羽毛球.ico</file>
+        <file>小软件/lindan.jpg</file>
+        <file>小软件/lindan_white.png</file>
+        <file>小软件/robot.png</file>
+        <file>小软件/羽毛球.png</file>
+    </qresource>
+</RCC>

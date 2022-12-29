@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file>MyStar/pexels-benjamin-suter-3617500.jpg</file>
+        <file>MyStar/pexels-bess-hamiti-36487.jpg</file>
+        <file>MyStar/pexels-dids-1276429.jpg</file>
+        <file>MyStar/pexels-eberhard-grossgasteiger-1421903.jpg</file>
+        <file>MyStar/pexels-egil-sjøholt-1906658.jpg</file>
+        <file>MyStar/pexels-felix-mittermeier-956981.jpg</file>
+        <file>MyStar/pexels-felix-mittermeier-957962 - 副本.jpg</file>
+        <file>MyStar/pexels-felix-mittermeier-957962.jpg</file>
+        <file>MyStar/pexels-felix-mittermeier-1146134.jpg</file>
+        <file>MyStar/pexels-frank-cone-2291873.jpg</file>
+        <file>MyStar/pexels-hristo-fidanov-1252869.jpg</file>
+        <file>MyStar/pexels-hristo-fidanov-1252890.jpg</file>
+        <file>MyStar/pexels-instawalli-169789.jpg</file>
+        <file>MyStar/pexels-jakub-novacek-924824.jpg</file>
+        <file>MyStar/pexels-matheus-bertelli-1830252.jpg</file>
+        <file>MyStar/pexels-miriam-espacio-365633.jpg</file>
+        <file>MyStar/pexels-pixabay-355465.jpg</file>
+        <file>MyStar/pexels-pixabay-355887.jpg</file>
+        <file>MyStar/pexels-rakicevic-nenad-1274260.jpg</file>
+        <file>MyStar/pexels-sindre-strøm-1175136.jpg</file>
+        <file>MyStar/pexels-stefan-stefancik-91216.jpg</file>
+        <file>MyStar/pexels-stefan-stefancik-114251.jpg</file>
+        <file>MyStar/pexels-tobias-bjørkli-1819650.jpg</file>
+        <file>MyStar/pexels-tobias-bjørkli-2113554.jpg</file>
+        <file>MyStar/pexels-visit-greenland-360912.jpg</file>
+    </qresource>
+</RCC>
